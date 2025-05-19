@@ -1,0 +1,12 @@
+#move this theme
+from
+
+~rofi themes/
+
+ folder to 
+
+~.local/share/rofi
+
+#then open 
+#ROFI THEME SELECTOR 
+#you will see the themes
